@@ -1,6 +1,6 @@
 ### Hi! Welcome to my Github ✨
 
-I'm Anya a front-end developer. Nice to meet you!
+I'm Anya, a front-end developer. Nice to meet you!
 <!--
 **anya-uwu/anya-uwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
